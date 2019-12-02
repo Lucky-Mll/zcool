@@ -1,13 +1,3 @@
----
-layout: post
-title: 'Zcool'
-subtitle: '站酷'
-date: 2019-12-1
-categories: 技术
-cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-theme-h2o-postcover.jpg'
-tags: 前端开发 设计
----
-
 ## 使用步骤
 ---
 #### 下载
@@ -16,7 +6,7 @@ git clone https://github.com/Lucky-Mll/zcool.git
 npm i(install)
 #### 运行开发环境
 npm start
-#### 构件生产环境 
+#### 构建生产环境 
 npm run build
 
 ## 技术栈
